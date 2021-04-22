@@ -3,4 +3,3 @@ Este es el proyecto que trabajaremos en el curso de redes y computadores, básic
 # Integrantes:
 1. ## **Juan Madera**
 2. ## **Karla Ferrer**
-2. ## **Karla Ferrer**
