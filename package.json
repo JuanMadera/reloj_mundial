@@ -1,0 +1,23 @@
+{
+  "name": "reloj_mundial_final",
+  "version": "1.0.0",
+  "description": "Este es el proyecto que trabajaremos en el curso de redes y computadores, básicamente es un reloj mundial el cual se implementará en la educación. \r # Integrantes:\r - ## **Juan Madera**\r - ## **Karla Ferrer** \r - ## **Isabela Castellar**",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanMadera/reloj_mundial_final.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanMadera/reloj_mundial_final/issues"
+  },
+  "homepage": "https://github.com/JuanMadera/reloj_mundial_final#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
